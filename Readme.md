@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Полина Катышева](https://up.htmlacademy.ru/ecmascript/8/user/262423).
-* Наставник: `Неизвестно`.
+* Наставник: `Keks`.
 
 ---
 
